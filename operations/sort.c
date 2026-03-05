@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   sort.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-04-11 13:32:25 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-04-11 13:32:25 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/04/11 13:32:25 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:38:28 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "../push_swap.h"
 
 bool	checksorted(t_list **stack)

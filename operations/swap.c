@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   swap.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-04-09 14:49:27 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-04-09 14:49:27 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/04/09 14:49:27 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:38:30 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "../push_swap.h"
 
 //Swap the first 2 elements at the top of stack

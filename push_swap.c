@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-04-07 11:56:39 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-04-07 11:56:39 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/04/07 11:56:39 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:38:03 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "push_swap.h"
 
 t_list	*newnode(char *str)

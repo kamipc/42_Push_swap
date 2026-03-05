@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   push.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cpinho-c <cpinho-c@student.42.fr>          #+#  +:+       +#+        */
+/*   By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025-04-09 15:09:23 by cpinho-c          #+#    #+#             */
-/*   Updated: 2025-04-09 15:09:23 by cpinho-c         ###   ########.fr       */
+/*   Created: 2025/04/09 15:09:23 by cpinho-c          #+#    #+#             */
+/*   Updated: 2026/03/05 22:38:19 by cpinho-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "../push_swap.h"
 
 //pa: Take the first element at the top of b and put it at the top of a.

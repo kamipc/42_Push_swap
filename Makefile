@@ -6,16 +6,22 @@
 #    By: cpinho-c <cpinho-c@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/04/07 13:21:18 by cpinho-c          #+#    #+#              #
-#    Updated: 2026/03/05 22:37:54 by cpinho-c         ###   ########.fr        #
+#    Updated: 2026/03/05 22:54:58 by cpinho-c         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = push_swap
 CC = gcc
 CFLAGS = -Wall -Werror -Wextra
-SRCS = push_swap.c utils/utils.c utils/handleargs.c operations/swap.c \
-	   operations/push.c operations/rotate.c operations/rev_rotate.c \
-	   operations/sort.c operations/radix.c
+SRCS = push_swap.c \
+	   utils/utils.c \
+	   utils/handleargs.c \
+	   operations/swap.c \
+	   operations/push.c \
+	   operations/rotate.c \
+	   operations/rev_rotate.c \
+	   operations/sort.c \
+	   operations/radix.c
 
 OBJS = $(SRCS:.c=.o)
 RM = rm -rf

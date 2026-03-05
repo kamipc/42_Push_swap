@@ -20,4 +20,29 @@ Those instructions are:
 - `rrb` or `reverse rotate b`: Shift down all elements of stack **b**, the last element becomes the first.
 - `rrr`: **rra** and **rrb** at the same time.
 
+## Instructions
+
+- to clone the repository:
+```
+git clone https://github.com/kamipc/42_Push_swap.git
+```
+- then to enter the directory and compile the project:
+```
+cd 42_Push_swap
+make
+```
+This will also clone the repository libft which is a dependency and compile it.
+
+- then to run the program you have two options `./push_swap "list_of_numbers"` (a single argument with multiple numbers separated by spaces) or `./push_swap list of numbers` (all numbers being their own argumment), for example:
+
+```
+./push_swap "5 10 42 3 -1"
+```
+
+or 
+
+```
+./push_swap 5 10 42 3 -1
+```
+
 ![image](https://github.com/user-attachments/assets/a219e723-6778-47f1-85cb-d5b4aec308ee)
